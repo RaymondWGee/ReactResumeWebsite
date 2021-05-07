@@ -4,7 +4,7 @@
     "occupation": "Data Quality Analyst",
     "description": "I'm an aspiring Software Engineer honing my skills on the side while working with the largest social media company in the world.",
     "image": "profilepic.jpg",
-    "bio": "I am a Data Quality Analyst that leads teams around the world, reviewing annotated data and validating data quality. I am most comfortable with Java, SQL, and dabbled around with MERN stack. I used to play a lot of League of Legends, and was in the top 0.002%. Nowadays, I enjoy attempting to replicate tasty food from restaurants to learn, save money, and have fun at the same time.",
+    "bio": "I am a Data Quality Analyst that leads teams around the world, reviewing annotated data and validating data quality. I am most comfortable with Java, SQL, and dabbled around with MERN stack. I used to play a lot of League of Legends, and was ranked top 0.002% in the world. Nowadays, I enjoy attempting to replicate tasty food from restaurants to learn, save money, and have fun at the same time.",
     "contactmessage": "Want to get into contact? Please fill out your name, email, and message. I will get back to you as soon as I can!",
     "email": "RaymondWGee@gmail.com",
     "phone": "415-632-9032",
@@ -15,7 +15,7 @@
       "zip": "94112"
     },
     "website": "http://www.google.com",
-    "resumedownload": "https://drive.google.com/uc?id=1pTkIj4yTEehiRHelpBqPmv2--zClB9dp&export=download",
+    "resumedownload": "https://drive.google.com/uc?id=1_7V9HGWYKP6DimHFQAjMwRCW343aFKxR&export=download",
     "social": [
       {
         "name": "linkedin",
@@ -30,7 +30,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Short visualization of skill progress",
+    "skillmessage": "Language and Technologies I Am Most Comfortable With",
     "education": [
       {
         "school": "San Francisco State University",
@@ -107,8 +107,8 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "My favorite quote",
-        "user": "Unknown"
+        "text": "Create the perfect timing; it wont create itself.",
+        "user": "All of the motivational speakers mashed into my head"
       }
     ]
   }

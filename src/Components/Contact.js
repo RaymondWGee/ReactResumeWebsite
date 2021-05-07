@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
 import emailjs from 'emailjs-com';
-import { makeStyles } from '@material-ui/core/styles';
-import Alert from '@material-ui/lab/Alert';
 
 class Contact extends Component {
    render() {

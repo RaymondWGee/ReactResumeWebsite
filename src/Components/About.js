@@ -34,7 +34,6 @@ class About extends Component {
 						   <span>
 						         {city} {state}
                    </span><br />
-						   <span>{phone}</span><br />
                      <span>{email}</span>
 					   </p>
                </div>
@@ -46,7 +45,7 @@ class About extends Component {
             </div>
          </div>
       </div>
-      
+
    </section>
     );
   }
