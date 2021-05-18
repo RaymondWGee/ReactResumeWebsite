@@ -2,6 +2,9 @@
 Based off of a React Template and worked from there to make personal modifications, removing and adding things as necessary or desired.
 If you want to check out the original template, or any of photos included, check below!
 
+##### React Live Clock
+<a href="https://www.npmjs.com/package/react-live-clock">Used to display my current timezone for contact purposes</a>
+
 ##### EmailJS
 <a href="https://www.emailjs.com/">Used EmailJS to make contact section functional, without having to setup a backend</a>
 

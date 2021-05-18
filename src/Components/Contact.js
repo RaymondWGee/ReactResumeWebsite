@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
+import { render } from 'react-dom';
 import emailjs from 'emailjs-com';
+import Clock from 'react-live-clock';
 
 class Contact extends Component {
   render() {
@@ -69,12 +71,21 @@ class Contact extends Component {
             <aside className="four columns footer-widgets">
                <div className="widget widget_contact">
 
-					   <h4>Contact</h4>
+					   <h4>Raymond's Timezone</h4>
+
+                  <Clock 
+                     format={'h:mm:ssa'}
+                     style={{fontSize: '1.5em'}}
+                     ticking={true}
+                  />
+
+                  {/*
 					   <p className="address">
 						   {name}<br />
 						   {city}, {state}<br />
                      <span>{email}</span><br />
-					   </p>
+                  </p>
+                  */}
 				   </div>
             </aside>
       </div>
