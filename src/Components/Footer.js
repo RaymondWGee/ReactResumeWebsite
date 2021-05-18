@@ -19,7 +19,7 @@ class Footer extends Component {
            </ul>
 
            <ul className="copyright">
-              <li>&copy; Last Updated April, 2021</li>
+              <li>&copy; Last Updated May, 2021</li>
               <li>Original Template by Tim Baker<a title="Styleshout" href="https://github.com/tbakerx/react-resume-template"> Github</a></li>
            </ul>
 

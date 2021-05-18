@@ -4,6 +4,14 @@ import emailjs from 'emailjs-com';
 import Clock from 'react-live-clock';
 
 class Contact extends Component {
+  constructor() {
+     super();
+
+     this.state = {
+        date: Date().toLocaleString('en-US')
+     }
+  }
+
   render() {
 
     if(this.props.data){
@@ -72,20 +80,12 @@ class Contact extends Component {
                <div className="widget widget_contact">
 
 					   <h4>Raymond's Timezone</h4>
-
                   <Clock 
-                     format={'h:mm:ssa'}
+                     date={this.state.currentDate}
+                     format={'dddd, MMMM Do, YYYY, h:mm:ss A'}
                      style={{fontSize: '1.5em'}}
                      ticking={true}
                   />
-
-                  {/*
-					   <p className="address">
-						   {name}<br />
-						   {city}, {state}<br />
-                     <span>{email}</span><br />
-                  </p>
-                  */}
 				   </div>
             </aside>
       </div>
