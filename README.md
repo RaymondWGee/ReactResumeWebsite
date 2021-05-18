@@ -1,3 +1,11 @@
+## Email Contact Section
+![Screen Shot 2021-05-17 at 8 32 37 PM](https://user-images.githubusercontent.com/45413260/118586428-92e96200-b74f-11eb-8550-27477d6c903c.png)
+![Screen Shot 2021-05-17 at 8 53 49 PM](https://user-images.githubusercontent.com/45413260/118587837-1c019880-b752-11eb-8b69-30c0a5fad80e.png)
+- This is a contact section which has four text input boxes and one button
+  - Input Boxes: Name, Email, Subject, Message
+  - Button: Submit 
+- Once all the required information is filled out, you may click submit to send an email to Raymond
+
 ## Credits
 Based off of a React Template and worked from there to make personal modifications, removing and adding things as necessary or desired.
 If you want to check out the original template, or any of photos included, check below!
