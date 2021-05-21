@@ -8,7 +8,10 @@
 
 ## Credits
 Based off of a React Template and worked from there to make personal modifications, removing and adding things as necessary or desired.
-If you want to check out the original template, or any of photos included, check below!
+If you want to check out the original template, any of the background photos, or any of the packages/things I added that were not made by me, check out below!
+
+##### React Loading Screen
+<a href="https://github.com/nguyenbathanh/react-loading-screen">Used for loading screen (uses a lifecycle method rather than useEffect hooks)</a>
 
 ##### React Live Clock
 <a href="https://www.npmjs.com/package/react-live-clock">Used to display my current timezone for contact purposes</a>

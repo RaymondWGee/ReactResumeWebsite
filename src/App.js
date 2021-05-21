@@ -12,6 +12,11 @@ import Portfolio from './Components/Portfolio';
 
 class App extends Component {
 
+  // fake promise
+  authenticate(){
+    return new Promise(resolve => setTimeout(resolve, 2000)) // 2 seconds
+  }
+
   constructor(props){
     super(props);
     this.state = {
@@ -47,6 +52,18 @@ class App extends Component {
         this.setState({ loading: false }); // showing the app
       }
     });*/
+    this.authenticate().then(() => {
+      const ele = document.getElementById('ipl-progress-indicator')
+      if(ele){
+        // fade out
+        ele.classList.add('available')
+        setTimeout(() => {
+          // remove from DOM
+          ele.outerHTML = ''
+        }, 2000)
+      }
+    })
+
     this.getResumeData();
   }
 /*
