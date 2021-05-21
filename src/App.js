@@ -16,12 +16,12 @@ class App extends Component {
     super(props);
     this.state = {
       foo: 'bar',
-      resumeData: {}
+      resumeData: {},
+      //loading: true
     };
-
+    
     ReactGA.initialize('UA-110570651-1');
     ReactGA.pageview(window.location.pathname);
-
   }
 
   getResumeData(){
@@ -40,10 +40,26 @@ class App extends Component {
   }
 
   componentDidMount(){
+    /*this.fakeRequest().then(() => {
+      const el = document.querySelector(".loader-container");
+      if (el) {
+        el.remove();  // removing the spinner element
+        this.setState({ loading: false }); // showing the app
+      }
+    });*/
     this.getResumeData();
   }
-
+/*
+  fakeRequest = () => {
+    return new Promise(resolve => setTimeout(() => resolve(), 2500));
+  };
+*/
   render() {
+    /*
+    if (this.state.loading) {
+      return null; //app is not ready (fake request is in process)
+    }
+*/
     return (
       <div className="App">
         <Header data={this.state.resumeData.main}/>
