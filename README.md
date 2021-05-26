@@ -10,8 +10,14 @@
 Based off of a React Template and worked from there to make personal modifications, removing and adding things as necessary or desired.
 If you want to check out the original template, any of the background photos, or any of the packages/things I added that were not made by me, check out below!
 
+##### Header Background Photo Source
+<a href="https://wallpapercave.com/w/wp2394189">Source</a>
+
+##### Quote Background Photo Source
+<a href="https://wallpapercave.com/w/wp3436956">Source</a>
+
 ##### Direct Resume Download Link
-<a href="https://www.youtube.com/watch?v=lebCH3l6ePc">Instead of linking my resume to another path or website, figured it would be more intuitive if it was just a download link, and I used this method to do that (the caveat here is that the file must be shareable by link from a Google Drive).</a>
+<a href="https://www.youtube.com/watch?v=lebCH3l6ePc">Instead of linking my resume to another path or website, I figured it would be more intuitive if it was just a download link, and I used this method to do that (the caveat here is that the file must be shareable by link from a Google Drive).</a>
 
 ##### React Loading Screen
 <a href="https://github.com/nguyenbathanh/react-loading-screen">Used for loading screen (uses a lifecycle method rather than useEffect hooks)</a>
