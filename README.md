@@ -1,3 +1,11 @@
+## Header Section
+![Screen Shot 2021-05-26 at 8 56 00 PM](https://user-images.githubusercontent.com/45413260/119863753-bf7b4780-bece-11eb-8dd2-01e89f07d31b.png)
+
+## About Section
+![Screen Shot 2021-05-26 at 8 56 18 PM](https://user-images.githubusercontent.com/45413260/119863256-3a902e00-bece-11eb-9990-81e469d21b0e.png)
+- A little about me section to get to know me a bit more personally rather than just in a professional capacity. 
+- Resume button functions like a download button for my resume, utilizing a shareable Google Drive link.
+
 ## Resume Section
 ![Screen Shot 2021-05-26 at 8 56 38 PM](https://user-images.githubusercontent.com/45413260/119764639-a5a61a00-be66-11eb-90aa-b6840665b955.png)
 ![Screen Shot 2021-05-26 at 8 58 12 PM](https://user-images.githubusercontent.com/45413260/119764658-ad65be80-be66-11eb-87c0-757249d0e0a9.png)
