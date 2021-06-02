@@ -44,6 +44,7 @@ class App extends Component {
   }
 
   componentDidMount(){
+    /*
     this.authenticate().then(() => {
       const ele = document.getElementById('ipl-progress-indicator')
       if(ele){
@@ -55,7 +56,8 @@ class App extends Component {
         }, 2000)
       }
     })
-
+    */
+   
     this.getResumeData();
   }
 
