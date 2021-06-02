@@ -1,3 +1,8 @@
+## Description
+Originally based off of a React Template and worked from there to make personal modifications, removing and adding things as necessary or desired.
+
+If you want to check out the original template, any of the background photos, or any of the packages/things I added that were not made by me, check out below!
+
 ## Loading Screen
 ![Screen Shot 2021-05-26 at 8 55 15 PM](https://user-images.githubusercontent.com/45413260/120414411-cced6300-c30e-11eb-8fb5-0ccbf1e1e054.png)
 - Short loading screen before popping into the website
@@ -42,9 +47,6 @@
 - At the bottom, there is a upward facing arrow button that leads you back to the header at the top, along with links to my linkedin and github
 
 ## Credits
-Originally based off of a React Template and worked from there to make personal modifications, removing and adding things as necessary or desired.
-
-If you want to check out the original template, any of the background photos, or any of the packages/things I added that were not made by me, check out below!
 
 ##### Header Background Photo Source
 <a href="https://wallpapercave.com/w/wp2394189">Source</a>
