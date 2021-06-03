@@ -9,13 +9,10 @@
     "react-dom": "^17.0.2",
     "react-ga": "^3.3.0",
     "react-live-clock": "^5.1.0",
-    "react-scripts": "^4.0.3",
-    "homepage": "http://RaymondWGee.github.io/ReactResumeWebsite"
+    "react-scripts": "^4.0.3"
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"

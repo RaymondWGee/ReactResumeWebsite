@@ -12,13 +12,11 @@ import Portfolio from './Components/Portfolio';
 
 class App extends Component {
 
-  /*
-  // loading not working with github pages
   // fake promise
   authenticate(){
     return new Promise(resolve => setTimeout(resolve, 2000)) // 2 seconds
   }
-  */
+  
   constructor(props){
     super(props);
     this.state = {
@@ -46,7 +44,6 @@ class App extends Component {
   }
 
   componentDidMount(){
-    /*
     // loading not working for github pages
     this.authenticate().then(() => {
       const ele = document.getElementById('ipl-progress-indicator')
@@ -59,7 +56,6 @@ class App extends Component {
         }, 2000)
       }
     })
-   */
     this.getResumeData();
   }
 
