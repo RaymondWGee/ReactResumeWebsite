@@ -62,35 +62,39 @@
     "skills": [
       {
         "name": "Java",
-        "level": "65%"
+        "level": "60%"
       },
       {
-        "name": "SQL",
-        "level": "55%"
+        "name": "SQL/Presto",
+        "level": "60%"
+      },
+      {
+        "name": "Python",
+        "level": "25%"
       },
       {
         "name": "ReactJS",
-        "level": "40%"
+        "level": "30%"
       },
       {
         "name": "MongoDB",
-        "level": "40%"
+        "level": "30%"
       },
       {
         "name": "Express",
-        "level": "40%"
+        "level": "30%"
       },
       {
         "name": "NodeJS",
-        "level": "40%"
+        "level": "30%"
       },
       {
         "name": "HTML",
-        "level": "60%"
+        "level": "50%"
       },
       {
         "name": "CSS",
-        "level": "60%"
+        "level": "50%"
       }
     ]
   },
