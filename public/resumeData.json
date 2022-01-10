@@ -41,9 +41,15 @@
     ],
     "work": [
       {
+        "company": "Experis/Manpower Group",
+        "title": "Data Quality Analyst II",
+        "years": "October 2021 - Present",
+        "description": "I still work the largest social media company, validating annotative data for machine learning relating to ARVR (Augmented Reality Virtual Reality). I also clean and analyze datasets created from SQL queries as well as CSVs, by creating data visualizations by utilizing Pythong libraries (pandas, seaborn). In addition, I also utilize SQL to obtain metrics on our annotative data such as PCK (Percentage Correct Keypoints). All the while, I create Python scripts that allow users without much technical knowledge to run upload commands that would otherwise require the usage of devserver, SQL queries, and terminal commands. Lastly, I also do some excel sheet manipulation with basic regex in order to extract data."
+      },
+      {
         "company": "Lodestone",
         "title": "Data Quality Analyst",
-        "years": "October 2020 - Present",
+        "years": "October 2020 - October 2021",
         "description": "I work with the largest social media company to ensure quality data for their machine learning algorithm relating to ARVR (Augmented Reality Virtual Reality). I review annotated data to validate data quality, working with and leading multiple teams around the world. I also provide technical support for data management by setting up data uploads with Presto queries and maintain JSON configurations."
       },
       {
