@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Raymond Gee",
-    "occupation": "Data Quality Analyst",
+    "occupation": "Data Quality Analyst II",
     "description": "I'm an aspiring Software Engineer honing my skills on the side while working with the largest social media company in the world.",
     "image": "profilepic.jpg",
-    "bio": "I am a Data Quality Analyst that leads teams around the world, reviewing annotated data and validating data quality. I am most comfortable with Java, SQL, and dabbled around with MERN stack. I used to play a lot of League of Legends, and was ranked top 0.002% in North America. Nowadays, I enjoy attempting to replicate tasty food from restaurants to learn, save money, and have fun at the same time.",
+    "bio": "I am a Data Quality Analyst II that leads teams around the world, reviewing annotated data and validating data quality. I am most comfortable with Java, SQL, and dabbled around with MERN stack. I used to play a lot of League of Legends, and was ranked top 0.002% in North America. Nowadays, I enjoy attempting to replicate tasty food from restaurants to learn, save money, and have fun at the same time.",
     "contactmessage": "Want to get into contact? Please fill out your name, email, and message. I will get back to you as soon as I can!",
     "email": "RaymondWGee@gmail.com",
     "phone": "415-632-9032",
@@ -44,7 +44,7 @@
         "company": "Experis/Manpower Group",
         "title": "Data Quality Analyst II",
         "years": "October 2021 - Present",
-        "description": "I still work the largest social media company, validating annotative data for machine learning relating to ARVR (Augmented Reality Virtual Reality). I also clean and analyze datasets created from SQL queries as well as CSVs, by creating data visualizations by utilizing Pythong libraries (pandas, seaborn). In addition, I also utilize SQL to obtain metrics on our annotative data such as PCK (Percentage Correct Keypoints). All the while, I create Python scripts that allow users without much technical knowledge to run upload commands that would otherwise require the usage of devserver, SQL queries, and terminal commands. Lastly, I also do some excel sheet manipulation with basic regex in order to extract data."
+        "description": "I still work the largest social media company, validating annotative data for machine learning relating to ARVR (Augmented Reality Virtual Reality). I also clean and analyze datasets created from SQL queries as well as CSVs, by creating data visualizations by utilizing Pythong libraries (pandas, seaborn). In addition, I also utilize SQL to obtain metrics on our annotative data such as PCK (Percentage Correct Keypoints). All the while, I create Python scripts that allow users without much technical knowledge to run upload commands that would otherwise require the usage of devserver, SQL queries, and terminal commands. I also do some excel sheet manipulation with basic regex in order to extract data. Lastly, I train and oversee Annotation Operation Technicians to work with a debug issues with proprietary annotation platform. Typically this will involve making configuration changes in JSON format, and figuring out issues with the upload pipeline."
       },
       {
         "company": "Lodestone",
